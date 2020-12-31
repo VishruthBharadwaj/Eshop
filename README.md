@@ -35,23 +35,31 @@ I have created model for :
 # Users in hosted Website data:
 
 Admin email :v@gmail.com
+
 Name : vb
+
 password: vishruth
 
 
 
 User Name:ankith
+
 ed:a@gmail.com
+
 pd:vishruth1
 
 
 Name:bhavesh
+
 ed:b@gmail.com
+
 pd:vishruth2
 
 
 Name: chitra
+
 ed:c@gmail.com
+
 pd:vishruth3
 
 
