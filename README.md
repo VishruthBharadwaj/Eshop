@@ -2,7 +2,7 @@
 
 I have named my application as Store and Project name is Eshop.
 
-I have created model for 
+I have created model for :
 
  1)Category- Name of the category we can add in DB by admin which will be displayed in home page.
  
@@ -14,7 +14,7 @@ I have created model for
  4)Product-Product Details.
 
 
- In Home of Admin panel where we have Authentication and Authorization where we have Users(It is Nurcery owner details).
+ In Home of Admin panel where we have Authentication and Authorization where we have Users(It is Nursery owner details).
  
  Need to migrate first before using code.
  
