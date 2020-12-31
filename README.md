@@ -27,3 +27,35 @@ I have created model for :
  python manage.py createsuperuser
  
  When user orders for data it should be accepted by admin then once admin accepts the order then status will change from pending to completed for user.
+ 
+ # It is hosted on:
+ 
+ http://vishruthvb.pythonanywhere.com/
+
+# Users in hosted Website data:
+
+Admin email :v@gmail.com
+Name : vb
+password: vishruth
+
+
+
+User Name:ankith
+ed:a@gmail.com
+pd:vishruth1
+
+
+Name:bhavesh
+ed:b@gmail.com
+pd:vishruth2
+
+
+Name: chitra
+ed:c@gmail.com
+pd:vishruth3
+
+
+
+
+#Thats all folks
+
