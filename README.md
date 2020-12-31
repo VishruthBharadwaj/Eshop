@@ -44,23 +44,23 @@ password: vishruth
 
 User Name:ankith
 
-ed:a@gmail.com
+email id:a@gmail.com
 
-pd:vishruth1
+password:vishruth1
 
 
 Name:bhavesh
 
-ed:b@gmail.com
+email id:b@gmail.com
 
-pd:vishruth2
+password:vishruth2
 
 
 Name: chitra
 
-ed:c@gmail.com
+email id:c@gmail.com
 
-pd:vishruth3
+password:vishruth3
 
 
 
